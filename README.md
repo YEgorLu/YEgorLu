@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YEgorLu
-- 👀 I’m interested in WEB development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Backend and WEB development
+- 🌱 I’m currently learning .NET
 - 📫 How to reach me: [telegram](https://t.me/egor_lu)
 
 <!---
